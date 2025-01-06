@@ -4,5 +4,4 @@ And Second One - collapsed_journey_board.html
 
 Just Open And Move in LIve Server and just naviigate to check this its are working or not 
 
-<br>
-after it will not open in broeser it will work poper
+Thanks for reading this github project list for our workin so we working on it to improve it and working on it 
